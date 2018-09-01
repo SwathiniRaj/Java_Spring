@@ -1,4 +1,4 @@
-package com.sf.java.core;
+package com.sf.FileToObject;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,7 +17,7 @@ public class MainClass {
 		CustomerList customers =new CustomerList();
 		try {
 
-			File file = new File("src/com/sf/java/core/customers.txt");
+			File file = new File("src/com/sf/FileToObject/customers.txt");
 
 			@SuppressWarnings("resource")
 			BufferedReader buffer = new BufferedReader(new FileReader(file));

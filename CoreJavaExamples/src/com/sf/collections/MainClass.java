@@ -1,4 +1,4 @@
-package com.sf.coreJava;
+package com.sf.collections;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.sf.coreJava;
+package com.sf.collections;
 
 import java.util.Date;
 

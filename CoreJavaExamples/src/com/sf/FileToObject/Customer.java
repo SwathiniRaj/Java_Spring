@@ -1,4 +1,4 @@
-package com.sf.java.core;
+package com.sf.FileToObject;
 
 public class Customer {
 	private String customerId;

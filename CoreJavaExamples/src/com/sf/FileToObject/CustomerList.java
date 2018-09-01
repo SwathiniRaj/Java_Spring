@@ -1,4 +1,4 @@
-package com.sf.java.core;
+package com.sf.FileToObject;
 
 import java.util.ArrayList;
 
